@@ -5,9 +5,10 @@
 
 # links
     git hub repo:
-
+        https://github.com/hernajor133/Jordis-Portfolio.git
+    
     deployed repo:
-
+        https://hernajor133.github.io/Jordis-Portfolio/
 
 # Screenshot
 [Screenshot](./img\Jordi's-Portfolio.png)
