@@ -11,5 +11,4 @@
         https://hernajor133.github.io/Jordis-Portfolio/
 
 # Screenshot
-[Screenshot]
-(./img\Jordis-Portfolio.png)
+[./img/Jordis-Portfolio.png](./img/Jordis-Portfolio.png)
